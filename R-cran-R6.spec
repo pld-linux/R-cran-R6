@@ -4,7 +4,7 @@
 Summary:	Encapsulated classes with reference semantics
 Name:		R-cran-%{modulename}
 Version:	2.6.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Applications/Math
 Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
